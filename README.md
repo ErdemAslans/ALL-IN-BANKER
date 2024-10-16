@@ -57,5 +57,5 @@
 ├── crm_integration.py          # CRM integration module
 ├── reporting_dashboard.py      # Reporting and data visualization module
 ├── all_in_banker_main.py       # Main script that integrates all modules
-├── README.md                   # Project documentation
+├── README.md                   # Project documentation.
 └── requirements.txt            # List of dependencies
